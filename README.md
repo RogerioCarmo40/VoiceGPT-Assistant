@@ -84,11 +84,15 @@ Projeto desenvolvido por **Rogério Carmo** como parte da formação técnica na
 🙏 Agradecimentos
 
 Digital Innovation One (DIO) - Plataforma de educação
+
 OpenAI - Whisper e GPT
+
 Google - Tecnologia gTTS
 
 📞 Contato
 
 Autor: Rogério Carmo
+
 LinkedIn: https://www.linkedin.com/in/rogeriocarmo40/
+
 Email: rogeriocarmo.ti@gmail.com
