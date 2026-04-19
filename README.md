@@ -5,7 +5,7 @@
 [](https://openai.com)
 [](https://docs.pytest.org/)
 
-> **Converse com o ChatGPT usando apenas sua voz\!** \> Assistente virtual inteligente desenvolvido como projeto para o **Bootcamp Bradesco - Java Cloud Native (DIO)**, integrando **Speech-to-Text**, **IA Generativa** e **Text-to-Speech**.
+> **Converse com o ChatGPT usando apenas sua voz\!** \> Assistente virtual inteligente desenvolvido como projeto para o **Bootcamp Bradesco - GenAI & Dados - DIO**, integrando **Speech-to-Text**, **IA Generativa** e **Text-to-Speech**.
 
 -----
 
