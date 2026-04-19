@@ -1,0 +1,19 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# --- Ferramentas e Cache ---
+.pytest_cache/
+.vscode/
+
+# --- Arquivos Sensíveis (SEGURANÇA) ---
+.env
+
+# --- Arquivos Gerados pelo Assistente ---
+*.wav
+*.mp3
+input_audio.wav
+temp_response.mp3
+teste_voz.wav
